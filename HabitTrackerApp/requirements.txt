@@ -1,0 +1,29 @@
+# GUI Framework
+customtkinter>=5.2.0
+
+# Data Handling
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Security
+bcrypt>=4.0.0
+
+# Date/Time
+python-dateutil>=2.8.0
+pytz>=2023.3
+
+# Utilities
+Pillow>=10.0.0
+validators>=0.20.0
+
+# Notifications
+plyer>=2.1.0
+
+# Task scheduling
+schedule>=1.2.0
+
+# Note: All packages will be installed when you run install.bat

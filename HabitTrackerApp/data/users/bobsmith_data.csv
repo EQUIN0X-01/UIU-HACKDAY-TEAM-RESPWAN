@@ -1,0 +1,61 @@
+date,tracker_type,tracker_name,value,goal,unit,notes,completed
+2026-01-08,counter,Junk Food Avoided,0.0,0.0,times,,yes
+2026-01-08,duration,Leisure Screen Time,2.8,2.0,hours,,yes
+2026-01-08,duration,Exercise,0.0,1.0,hours,,no
+2026-01-08,counter,Social Interactions,1.0,2.0,calls/meetings,,no
+2026-01-08,duration,Work Hours,11.8,8.0,hours,,yes
+2026-01-07,counter,Meals,0.0,3.0,meals,,no
+2026-01-07,rating,Daily Mood,3.0,4.0,stars,,no
+2026-01-07,duration,Side Project Time,0.9,1.0,hours,,no
+2026-01-07,counter,Water Intake,1.0,10.0,glasses,,no
+2026-01-06,rating,Daily Mood,2.0,4.0,stars,,no
+2026-01-06,duration,Learning Time,0.2,1.0,hours,,no
+2026-01-06,counter,Meals,2.0,3.0,meals,,no
+2026-01-06,duration,Side Project Time,0.6,1.0,hours,,no
+2026-01-06,checkbox,Morning Routine,0.0,1.0,boolean,,no
+2026-01-06,counter,Social Interactions,1.0,2.0,calls/meetings,,no
+2026-01-05,duration,Side Project Time,0.4,1.0,hours,,no
+2026-01-05,numeric,Daily Expenses,6.91,50.0,dollars,,no
+2026-01-05,numeric,Daily Savings,26.04,20.0,dollars,,yes
+2026-01-04,duration,Reading Time,0.5,0.5,hours,,yes
+2026-01-04,numeric,Daily Expenses,64.44,50.0,dollars,,yes
+2026-01-04,counter,Water Intake,10.0,10.0,glasses,,yes
+2026-01-04,duration,Self-Care Time,0.1,0.5,hours,,no
+2026-01-04,numeric,Daily Savings,15.44,20.0,dollars,,no
+2026-01-03,duration,Exercise,1.5,1.0,hours,,yes
+2026-01-03,counter,Junk Food Avoided,0.0,0.0,times,,yes
+2026-01-03,numeric,Daily Savings,8.07,20.0,dollars,,no
+2026-01-03,duration,Sleep Duration,6.3,7.0,hours,,no
+2026-01-02,duration,Leisure Screen Time,0.2,2.0,hours,,no
+2026-01-02,rating,Sleep Quality,3.0,4.0,stars,,no
+2026-01-02,counter,Water Intake,10.0,10.0,glasses,,yes
+2026-01-02,duration,Exercise,1.0,1.0,hours,,yes
+2026-01-01,checkbox,Morning Routine,1.0,1.0,boolean,,yes
+2026-01-01,duration,Leisure Screen Time,2.2,2.0,hours,,yes
+2026-01-01,duration,Learning Time,0.5,1.0,hours,,no
+2026-01-01,duration,Work Hours,1.7,8.0,hours,,no
+2026-01-01,rating,Sleep Quality,5.0,4.0,stars,,yes
+2025-12-31,counter,Junk Food Avoided,0.0,0.0,times,,yes
+2025-12-31,numeric,Daily Expenses,2.61,50.0,dollars,,no
+2025-12-31,duration,Self-Care Time,0.6,0.5,hours,,yes
+2025-12-30,counter,Junk Food Avoided,0.0,0.0,times,,yes
+2025-12-30,duration,Leisure Screen Time,2.6,2.0,hours,,yes
+2025-12-30,duration,Learning Time,1.2,1.0,hours,,yes
+2025-12-30,duration,Side Project Time,1.4,1.0,hours,,yes
+2025-12-29,rating,Daily Mood,4.0,4.0,stars,,yes
+2025-12-29,numeric,Daily Expenses,50.12,50.0,dollars,,yes
+2025-12-29,rating,Stress Level,3.0,2.0,stars,,yes
+2025-12-29,duration,Leisure Screen Time,2.2,2.0,hours,,yes
+2025-12-29,checkbox,Morning Routine,0.0,1.0,boolean,,no
+2025-12-28,duration,Learning Time,0.1,1.0,hours,,no
+2025-12-28,numeric,Daily Expenses,17.26,50.0,dollars,,no
+2025-12-28,counter,Meals,3.0,3.0,meals,,yes
+2025-12-27,rating,Daily Mood,1.0,4.0,stars,,no
+2025-12-27,duration,Self-Care Time,0.3,0.5,hours,,no
+2025-12-27,counter,Social Interactions,2.0,2.0,calls/meetings,,yes
+2025-12-27,counter,Water Intake,5.0,10.0,glasses,,no
+2025-12-27,rating,Stress Level,5.0,2.0,stars,,yes
+2025-12-27,checkbox,Evening Routine,0.0,1.0,boolean,,no
+2025-12-26,checkbox,Morning Routine,1.0,1.0,boolean,,yes
+2025-12-26,duration,Leisure Screen Time,1.4,2.0,hours,,no
+2025-12-26,duration,Reading Time,0.2,0.5,hours,,no

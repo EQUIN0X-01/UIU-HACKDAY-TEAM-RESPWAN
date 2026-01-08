@@ -1,0 +1,5 @@
+reminder_id,title,description,date,time,recurrence,category,priority,tracker_link,status
+1,Sleep Reminder,Prepare for bed,2026-01-09,22:00,weekly,health,medium,,pending
+2,Read a Book,Read for 20 minutes,2026-01-10,20:00,once,learning,high,,pending
+3,Drink Water,Stay hydrated!,2026-01-12,12:00,once,health,medium,,pending
+4,Morning Exercise,Do 30 minutes of exercise,2026-01-12,07:00,daily,health,high,,pending

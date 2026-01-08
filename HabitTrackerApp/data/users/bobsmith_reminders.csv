@@ -1,0 +1,5 @@
+reminder_id,title,description,date,time,recurrence,category,priority,tracker_link,status
+1,Read a Book,Read for 20 minutes,2026-01-09,20:00,daily,learning,high,,pending
+2,Take Vitamins,Don't forget daily vitamins,2026-01-09,08:00,once,health,low,,pending
+3,Sleep Reminder,Prepare for bed,2026-01-08,22:00,once,health,medium,,pending
+4,Afternoon Review,Review progress,2026-01-13,16:00,weekly,general,high,,pending

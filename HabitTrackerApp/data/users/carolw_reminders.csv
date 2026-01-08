@@ -1,0 +1,5 @@
+reminder_id,title,description,date,time,recurrence,category,priority,tracker_link,status
+1,Sleep Reminder,Prepare for bed,2026-01-13,22:00,daily,health,medium,,pending
+2,Morning Exercise,Do 30 minutes of exercise,2026-01-13,07:00,daily,health,low,,pending
+3,Afternoon Review,Review progress,2026-01-14,16:00,once,general,medium,,pending
+4,Take Vitamins,Don't forget daily vitamins,2026-01-08,08:00,weekly,health,low,,pending

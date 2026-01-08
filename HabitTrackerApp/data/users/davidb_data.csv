@@ -1,0 +1,58 @@
+date,tracker_type,tracker_name,value,goal,unit,notes,completed
+2026-01-08,counter,Meals,2.0,3.0,meals,,no
+2026-01-08,duration,Screen Time,4.3,3.0,hours,,yes
+2026-01-08,duration,Study Hours,0.1,4.0,hours,,no
+2026-01-08,duration,Extracurricular,0.4,1.0,hours,,no
+2026-01-08,checkbox,Made Bed,1.0,1.0,boolean,,yes
+2026-01-07,counter,Water Intake,4.0,8.0,glasses,,no
+2026-01-07,duration,Social Time,1.0,2.0,hours,,no
+2026-01-07,duration,Exercise Time,0.7,0.5,hours,,yes
+2026-01-06,numeric,Daily Expenses,0.64,10.0,dollars,,no
+2026-01-06,counter,Meals,1.0,3.0,meals,,no
+2026-01-06,duration,Extracurricular,0.7,1.0,hours,,no
+2026-01-06,rating,Daily Mood,1.0,4.0,stars,,no
+2026-01-05,duration,Extracurricular,0.8,1.0,hours,,no
+2026-01-05,rating,Daily Mood,2.0,4.0,stars,,no
+2026-01-05,counter,Assignments Completed,2.0,3.0,assignments,,no
+2026-01-04,duration,Extracurricular,1.2,1.0,hours,,yes
+2026-01-04,duration,Screen Time,1.8,3.0,hours,,no
+2026-01-04,duration,Exercise Time,0.5,0.5,hours,,yes
+2026-01-04,numeric,Daily Expenses,10.6,10.0,dollars,,yes
+2026-01-04,counter,Meals,3.0,3.0,meals,,yes
+2026-01-04,checkbox,Made Bed,0.0,1.0,boolean,,no
+2026-01-03,duration,Study Hours,4.1,4.0,hours,,yes
+2026-01-03,duration,Screen Time,1.7,3.0,hours,,no
+2026-01-03,checkbox,Made Bed,0.0,1.0,boolean,,no
+2026-01-02,counter,Water Intake,1.0,8.0,glasses,,no
+2026-01-02,counter,Assignments Completed,0.0,3.0,assignments,,no
+2026-01-02,rating,Daily Mood,3.0,4.0,stars,,no
+2026-01-02,counter,Reading Pages,24.0,20.0,pages,,yes
+2026-01-01,numeric,Daily Expenses,4.72,10.0,dollars,,no
+2026-01-01,duration,Extracurricular,1.4,1.0,hours,,yes
+2026-01-01,duration,Study Hours,0.4,4.0,hours,,no
+2026-01-01,rating,Daily Mood,2.0,4.0,stars,,no
+2025-12-31,duration,Study Hours,1.1,4.0,hours,,no
+2025-12-31,duration,Extracurricular,0.8,1.0,hours,,no
+2025-12-31,checkbox,Made Bed,1.0,1.0,boolean,,yes
+2025-12-31,counter,Meals,1.0,3.0,meals,,no
+2025-12-31,duration,Screen Time,2.7,3.0,hours,,no
+2025-12-30,duration,Social Time,0.6,2.0,hours,,no
+2025-12-30,checkbox,Made Bed,1.0,1.0,boolean,,yes
+2025-12-30,counter,Reading Pages,3.0,20.0,pages,,no
+2025-12-29,checkbox,Made Bed,1.0,1.0,boolean,,yes
+2025-12-29,duration,Study Hours,6.0,4.0,hours,,yes
+2025-12-29,rating,Daily Mood,3.0,4.0,stars,,no
+2025-12-28,duration,Social Time,0.5,2.0,hours,,no
+2025-12-28,checkbox,Made Bed,1.0,1.0,boolean,,yes
+2025-12-28,numeric,Daily Expenses,2.79,10.0,dollars,,no
+2025-12-28,counter,Reading Pages,27.0,20.0,pages,,yes
+2025-12-28,duration,Exercise Time,0.2,0.5,hours,,no
+2025-12-28,duration,Screen Time,3.7,3.0,hours,,yes
+2025-12-27,counter,Water Intake,1.0,8.0,glasses,,no
+2025-12-27,numeric,Daily Expenses,12.44,10.0,dollars,,yes
+2025-12-27,counter,Meals,2.0,3.0,meals,,no
+2025-12-27,counter,Assignments Completed,2.0,3.0,assignments,,no
+2025-12-27,rating,Daily Mood,3.0,4.0,stars,,no
+2025-12-26,numeric,Daily Expenses,0.55,10.0,dollars,,no
+2025-12-26,checkbox,Made Bed,1.0,1.0,boolean,,yes
+2025-12-26,duration,Sleep Duration,11.0,8.0,hours,,yes

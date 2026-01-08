@@ -1,0 +1,9 @@
+achievement_id,name,description,criteria_type,criteria_value,badge_icon,category
+1,First Steps,Log your first activity,first_log,1,🎯,milestone
+2,3-Day Streak,Log for 3 consecutive days,streak,3,🔥,milestone
+3,Week Warrior,Complete 7 days in a row,streak,7,⚡,milestone
+4,Perfect Day,Achieve 100% of daily goals,daily_completion,100,⭐,milestone
+5,Century Club,Log 100 total hours,cumulative_hours,100,💯,milestone
+6,Consistency King,30-day streak,streak,30,👑,milestone
+7,Dedication,Use app for 90 days,days_active,90,🎖️,milestone
+8,Legend,100-day streak,streak,100,🏆,milestone

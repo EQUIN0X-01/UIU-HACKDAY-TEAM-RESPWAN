@@ -1,0 +1,5 @@
+reminder_id,title,description,date,time,recurrence,category,priority,tracker_link,status
+1,Lunch Break,Eat a healthy meal,2026-01-10,12:30,daily,health,low,,pending
+2,Evening Walk,30 minute evening walk,2026-01-09,18:00,daily,health,medium,,pending
+3,Drink Water,Stay hydrated!,2026-01-12,12:00,once,health,medium,,pending
+4,Afternoon Review,Review progress,2026-01-12,16:00,daily,general,high,,pending

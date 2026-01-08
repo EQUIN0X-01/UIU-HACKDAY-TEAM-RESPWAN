@@ -1,0 +1,58 @@
+date,tracker_type,tracker_name,value,goal,unit,notes,completed
+2026-01-08,duration,Self-Care Time,0.4,0.5,hours,,no
+2026-01-08,counter,Junk Food Avoided,0.0,0.0,times,,yes
+2026-01-08,rating,Sleep Quality,1.0,4.0,stars,,no
+2026-01-08,duration,Learning Time,1.0,1.0,hours,,yes
+2026-01-08,duration,Leisure Screen Time,1.1,2.0,hours,,no
+2026-01-07,duration,Self-Care Time,0.1,0.5,hours,,no
+2026-01-07,duration,Side Project Time,1.2,1.0,hours,,yes
+2026-01-07,duration,Exercise,0.2,1.0,hours,,no
+2026-01-06,rating,Stress Level,3.0,2.0,stars,,yes
+2026-01-06,checkbox,Morning Routine,1.0,1.0,boolean,,yes
+2026-01-06,counter,Social Interactions,0.0,2.0,calls/meetings,,no
+2026-01-05,rating,Sleep Quality,1.0,4.0,stars,,no
+2026-01-05,duration,Learning Time,1.3,1.0,hours,,yes
+2026-01-05,rating,Stress Level,3.0,2.0,stars,,yes
+2026-01-05,duration,Reading Time,0.2,0.5,hours,,no
+2026-01-05,duration,Exercise,1.3,1.0,hours,,yes
+2026-01-04,rating,Sleep Quality,2.0,4.0,stars,,no
+2026-01-04,duration,Sleep Duration,9.0,7.0,hours,,yes
+2026-01-04,duration,Work Hours,0.1,8.0,hours,,no
+2026-01-03,numeric,Daily Expenses,37.76,50.0,dollars,,no
+2026-01-03,checkbox,Morning Routine,1.0,1.0,boolean,,yes
+2026-01-03,rating,Sleep Quality,1.0,4.0,stars,,no
+2026-01-03,duration,Leisure Screen Time,0.6,2.0,hours,,no
+2026-01-03,duration,Side Project Time,1.0,1.0,hours,,yes
+2026-01-02,duration,Sleep Duration,8.3,7.0,hours,,yes
+2026-01-02,duration,Learning Time,1.4,1.0,hours,,yes
+2026-01-02,checkbox,Evening Routine,0.0,1.0,boolean,,no
+2026-01-02,duration,Side Project Time,0.1,1.0,hours,,no
+2026-01-01,numeric,Daily Savings,25.26,20.0,dollars,,yes
+2026-01-01,checkbox,Morning Routine,1.0,1.0,boolean,,yes
+2026-01-01,duration,Learning Time,0.3,1.0,hours,,no
+2025-12-31,counter,Water Intake,0.0,10.0,glasses,,no
+2025-12-31,numeric,Daily Expenses,51.46,50.0,dollars,,yes
+2025-12-31,duration,Sleep Duration,8.8,7.0,hours,,yes
+2025-12-31,checkbox,Evening Routine,0.0,1.0,boolean,,no
+2025-12-30,duration,Reading Time,0.2,0.5,hours,,no
+2025-12-30,duration,Sleep Duration,9.7,7.0,hours,,yes
+2025-12-30,rating,Daily Mood,3.0,4.0,stars,,no
+2025-12-30,numeric,Daily Expenses,61.13,50.0,dollars,,yes
+2025-12-30,duration,Exercise,0.6,1.0,hours,,no
+2025-12-30,duration,Work Hours,8.6,8.0,hours,,yes
+2025-12-29,counter,Meals,0.0,3.0,meals,,no
+2025-12-29,numeric,Daily Expenses,10.21,50.0,dollars,,no
+2025-12-29,duration,Exercise,0.3,1.0,hours,,no
+2025-12-29,rating,Sleep Quality,3.0,4.0,stars,,no
+2025-12-28,duration,Self-Care Time,0.5,0.5,hours,,yes
+2025-12-28,rating,Sleep Quality,2.0,4.0,stars,,no
+2025-12-28,rating,Stress Level,1.0,2.0,stars,,no
+2025-12-28,rating,Daily Mood,5.0,4.0,stars,,yes
+2025-12-28,counter,Meals,0.0,3.0,meals,,no
+2025-12-27,checkbox,Morning Routine,0.0,1.0,boolean,,no
+2025-12-27,duration,Exercise,0.9,1.0,hours,,no
+2025-12-27,duration,Reading Time,0.2,0.5,hours,,no
+2025-12-27,numeric,Daily Savings,28.33,20.0,dollars,,yes
+2025-12-26,rating,Stress Level,5.0,2.0,stars,,yes
+2025-12-26,counter,Meals,2.0,3.0,meals,,no
+2025-12-26,rating,Sleep Quality,5.0,4.0,stars,,yes

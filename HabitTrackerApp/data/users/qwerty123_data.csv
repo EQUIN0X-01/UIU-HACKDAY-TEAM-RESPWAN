@@ -1,0 +1,3 @@
+date,tracker_type,tracker_name,value,goal,unit,notes,completed
+2026-01-08,rating,Daily Mood,3,4,stars,,no
+2026-01-08,checkbox,Made Bed,0,1,boolean,,no
