@@ -4,7 +4,7 @@ A comprehensive desktop application for tracking habits, health, and lifestyle a
 
 ## Features
 
-### ✨ Core Features (MVP)
+###  Core Features (MVP)
 - **User Authentication**
   - Secure login/signup system
   - Password recovery
@@ -100,27 +100,27 @@ HabitTrackerApp/
    - Password (min 6 characters)
 3. **Step 2**: Choose a unique username
 4. **Step 3**: Select your role
-   - Student 📚
-   - Adult/Professional 💼
-   - Senior Citizen 👴
-   - Custom ⚙️
+   - Student 
+   - Adult/Professional 
+   - Senior Citizen 
+   - Custom 
 
 ### Logging Activities
 
-1. Click "➕ Log Activity" in the bottom navigation
+1. Click " Log Activity" in the bottom navigation
 2. Fill in values for your trackers
 3. Click "Save All Activities"
 
 ### Viewing Statistics
 
-1. Click "📊 Statistics" to view:
+1. Click "Statistics" to view:
    - 7-day activity summary
    - Completion rates
    - Progress trends
 
 ### Managing Settings
 
-1. Click "⚙️ Settings" to:
+1. Click "Settings" to:
    - View profile information
    - Change theme (Light/Dark)
    - Logout
@@ -149,7 +149,7 @@ HabitTrackerApp/
 
 ## Role-Specific Trackers
 
-### Student Trackers 📚
+### Student Trackers 
 - Study Hours
 - Assignments Completed
 - Sleep Duration
@@ -163,7 +163,7 @@ HabitTrackerApp/
 - Social Time
 - Extracurricular Activities
 
-### Adult/Professional Trackers 💼
+### Adult/Professional Trackers 
 - Work Hours
 - Learning Time
 - Exercise
@@ -179,7 +179,7 @@ HabitTrackerApp/
 - Self-Care Time
 - Side Project Time
 
-### Senior Citizen Trackers 👴
+### Senior Citizen Trackers 
 - Medication (Morning, Afternoon, Evening)
 - Blood Pressure (Systolic, Diastolic)
 - Blood Sugar
@@ -228,7 +228,7 @@ Choose "Custom" role during signup to build your own tracker set.
 
 This is an MVP (Minimum Viable Product) version with core features implemented.
 
-### Implemented ✅
+### Implemented 
 - User authentication system
 - Role-based tracker templates
 - Activity logging
